@@ -11,7 +11,7 @@ A simple web app built with Streamlit to analyze the sentiment of text.
 
 2.  **Run the app:**
     ```bash
-    streamlit run app.py
+    streamlit run nlp_app.py
     ```
 
 ## How It Works
