@@ -2,6 +2,10 @@
 
 A simple web app built with Streamlit to analyze the sentiment of text.
 
+#Deployment Location 
+
+Deployed on streamlit at - https://sg-nlp-demonstration.streamlit.app/
+
 ## How to Run
 
 1.  **Install dependencies:**
