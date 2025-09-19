@@ -6,7 +6,7 @@ A simple web app built with Streamlit to analyze the sentiment of text.
 
 Deployed on streamlit at - https://sg-nlp-demonstration.streamlit.app/
 
-<small>PS: Might have to click a reactivate button</small>
+*PS: Might have to click a reactivate button*
 
 ## How to Run
 
